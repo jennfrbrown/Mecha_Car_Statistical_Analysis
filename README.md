@@ -18,4 +18,4 @@
 If you look at the overall data summary, the current manufacutring data meet the design specifications.
 <img src ="https://github.com/jennfrbrown/Mecha_Car_Statistical_Analysis/blob/main/ReadMe%20Images/Lot_Summary.png">
 
-However, we if you look at the data summarized by lot, you see that lot 3 exceeds the 100 pounds per square inch variance that the suspension coils must not exceeds.
+However, we if you look at the data summarized by lot, you see that while lot 1 & 2 meet the design specifications, lot 3 exceeds the 100 pounds per square inch variance that the suspension coils must not exceeds.
