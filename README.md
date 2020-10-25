@@ -11,3 +11,8 @@
   
 3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 <br> The intercept probability is very small indicating that there are not outside factors making a significant effect on the results.  The r-squared value is 0.7149, meaning that there is a 71.49% chance that future data points will fit this model. 
+
+## Summary Statistics on Suspension Coils
+1. The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?<br>
+If you look at the overall data summary, the current manufacutring data meet the design specifications.
+
