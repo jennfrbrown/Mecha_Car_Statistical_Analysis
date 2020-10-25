@@ -22,5 +22,11 @@ However, we if you look at the data summarized by lot, you see that while lot 1 
 
 ## T-Tests on Suspension Coils
 
+<img src = "https://github.com/jennfrbrown/Mecha_Car_Statistical_Analysis/blob/main/ReadMe%20Images/T-Tests.png">
 
-We observed that the p-value for overall lots is 0.5117, for lot1 is 0.9048, for lot2 is 0.3451 and for lot3 is 0.637. These are all above the level of statstical significance of 0.05. Thus, we are not in a position to reject the Null hypothesis indicating that the lot has no effect on PSI.
+We observed that the p-value for overall lots is 0.5117.  The P values for the individual lots are shown below.
+- lot1 is 0.9048
+- lot2 is 0.3451
+- lot3 is 0.637
+
+These are all above the level of statstical significance of 0.05. Thus, we are not in a position to reject the Null hypothesis indicating that the lot has no effect on PSI.
