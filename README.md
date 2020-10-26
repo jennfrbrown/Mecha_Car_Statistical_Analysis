@@ -33,9 +33,9 @@ These are all above the level of statstical significance of 0.05. Thus, we are n
 
 ## Study Design: MechaCar vs Competition
 
-When purchasing a vehicle consumers take a variety of factors in consideration.  Cost of the vehicle is a significant factor.  Often a car will cost more if it considered a luxury or high performance vehicle.
+When purchasing a vehicle, consumers take a variety of factors into consideration.  Cost of the vehicle can be a significant factor, often a car will cost more if it considered a luxury or high performance vehicle.
 
-For this analysis, we will test if the cost of MechaCar is comparable to competitor's vehicles with similiar horsepower. 
+For this analysis, we will test if the cost of the MechaCar is comparable to competitor's vehicles with similiar horsepower. 
 
 ### Hypotheses
 The null hypothesis: The cost of the MechaCar is the same of competitor's vehicles on a $/horsepower basis.
