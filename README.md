@@ -30,3 +30,21 @@ We observed that the p-value for overall lots is 0.5117.  The P values for the i
 - lot3 is 0.637
 
 These are all above the level of statstical significance of 0.05. Thus, we are not in a position to reject the Null hypothesis indicating that the lot has no effect on PSI.
+
+## Study Design: MechaCar vs Competition
+
+When purchasing a vehicle consumers take a variety of factors in consideration.  Cost of the vehicle is a significant factor.  Often a car will cost more if it considered a luxury or high performance vehicle.
+
+For this analysis, we will test if the cost of MechaCar is comparable to competitor's vehicles with similiar horsepower. 
+
+### Hypotheses
+The null hypothesis: The cost of the MechaCar is the same of competitor's vehicles on a $/horsepower basis.
+The alternate hypothesis: The cost of the MechaCar is more expensive then competitor's vehicles on a $/horsepower basis.
+
+### Why a Two-Sampled t-test?
+To test this hypothesis, we will use a two-sampled t-test.  We would use a two-sampled test because it allowws us to compare the mean $/horsepower of the MechaCar to the mean $/horsepower of the overall population.  We can see if the MechaCar's $/horsepower is statistically significantly different from the mean of the population.  
+
+### Data Needed to Perform Analyis
+To run this test we would need a dataset containing the following: 
+ - cost of the vehicle
+ - horsepower of the vehicle.
